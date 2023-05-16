@@ -1,0 +1,8 @@
+E:\seif eishhhhh\task 2\Statistics project\Statistics project\bin\Debug\Statistics project.exe.config
+E:\seif eishhhhh\task 2\Statistics project\Statistics project\bin\Debug\Statistics project.exe
+E:\seif eishhhhh\task 2\Statistics project\Statistics project\bin\Debug\Statistics project.pdb
+E:\seif eishhhhh\task 2\Statistics project\Statistics project\obj\Debug\Statistics project.csproj.AssemblyReference.cache
+E:\seif eishhhhh\task 2\Statistics project\Statistics project\obj\Debug\Statistics project.csproj.SuggestedBindingRedirects.cache
+E:\seif eishhhhh\task 2\Statistics project\Statistics project\obj\Debug\Statistics project.csproj.CoreCompileInputs.cache
+E:\seif eishhhhh\task 2\Statistics project\Statistics project\obj\Debug\Statistics project.exe
+E:\seif eishhhhh\task 2\Statistics project\Statistics project\obj\Debug\Statistics project.pdb
